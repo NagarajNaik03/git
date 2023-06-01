@@ -14,3 +14,4 @@ async function getResponse() {
     const data = await response.json();
     console.log(data);
 }
+var c = "hello"
